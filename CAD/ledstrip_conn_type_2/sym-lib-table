@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "led_strip_lib")(type "KiCad")(uri "${KIPRJMOD}/libraries/led_strip_lib.kicad_sym")(options "")(descr ""))
-)
