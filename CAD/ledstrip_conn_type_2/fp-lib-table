@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "ledstrip_conn")(type "KiCad")(uri "C:/Users/fnk/Documents/GITHUB/led_strip/CAD/ledstrip_conn_type_1.pretty")(options "")(descr ""))
-  (lib (name "libraries")(type "KiCad")(uri "C:/Users/fnk/Documents/GITHUB/led_strip/CAD/libraries.pretty")(options "")(descr ""))
-  (lib (name "ledstrip_footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/ledstrip_footprints.pretty")(options "")(descr ""))
-)
